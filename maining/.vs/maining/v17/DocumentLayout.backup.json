@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENT\\Documents\\GitHub\\main\\maining\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|C:\\Users\\STUDENT\\Documents\\GitHub\\main\\maining\\maining\\maining.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|solutionrelative:maining\\maining.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "maining.cpp",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\GitHub\\main\\maining\\maining\\maining.cpp",
+              "RelativeDocumentMoniker": "maining\\maining.cpp",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\GitHub\\main\\maining\\maining\\maining.cpp*",
+              "RelativeToolTip": "maining\\maining.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T15:55:08.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
