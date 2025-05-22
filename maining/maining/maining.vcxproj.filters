@@ -27,5 +27,16 @@
     <ClCompile Include="maining.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="UIController.cpp">
+      <Filter>Исходные файлы\view</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="UIControler.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="UIControllerHEAD.h">
+      <Filter>Исходные файлы\view</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

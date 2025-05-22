@@ -1,8 +1,10 @@
-﻿#include <iostream>
-#include "imGUI/imgui.h"
-using namespace std;
+﻿#include "UIControllerHEAD.h"
 int main()
 {
+    string name = "HUH";
     setlocale(0, "rus");
-    cout << "Hello";
+    UIController uicontroler;
+    uicontroler.Print(name);
+    vector<string> s{ "1", "1", "1", "1", "1" };
+    uicontroler.PrintMas(s);
 }
