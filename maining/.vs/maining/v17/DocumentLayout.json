@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "maining\\UIControllerHEAD.h",
               "ToolTip": "C:\\Users\\User\\Documents\\main\\maining\\maining\\UIControllerHEAD.h",
               "RelativeToolTip": "maining\\UIControllerHEAD.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-23T09:24:37.097Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "maining\\UIController.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-23T09:24:37.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T09:24:37.255Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "maining\\maining.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-23T09:24:37.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T09:24:37.349Z"
             }
           ]
         }
