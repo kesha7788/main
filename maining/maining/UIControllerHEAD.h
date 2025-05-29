@@ -6,5 +6,5 @@ class UIController {
 public:
 	static void Print(string);
 	static void PrintMas(vector<string>);
-
+	
 };
