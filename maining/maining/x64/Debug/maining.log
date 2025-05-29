@@ -1,2 +1,2 @@
-﻿  maining.cpp
-  maining.vcxproj -> C:\Users\STUDENT\Documents\GitHub\main\maining\x64\Debug\maining.exe
+﻿maining.obj : error LNK2005: main уже определен в BigCode.obj
+C:\Users\User\Documents\main\maining\x64\Debug\maining.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
