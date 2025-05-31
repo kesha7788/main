@@ -1,2 +1,6 @@
-﻿maining.obj : error LNK2005: main уже определен в BigCode.obj
-C:\Users\User\Documents\main\maining\x64\Debug\maining.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
+﻿  InputController.cpp
+  maining.cpp
+  UIController.cpp
+  UIControllerHEAD.cpp
+  Создание кода...
+  maining.vcxproj -> C:\Users\User\Documents\main\maining\x64\Debug\maining.exe

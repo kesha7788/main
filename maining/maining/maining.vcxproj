@@ -127,10 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="InputController.cpp" />
     <ClCompile Include="maining.cpp" />
+    <ClCompile Include="OutputController.cpp" />
     <ClCompile Include="UIController.cpp" />
+    <ClCompile Include="UIControllerHEAD.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Calculator.h" />
+    <ClInclude Include="InputController.h" />
+    <ClInclude Include="links.h" />
+    <ClInclude Include="OutputController.h" />
     <ClInclude Include="UIControler.h" />
     <ClInclude Include="UIControllerHEAD.h" />
   </ItemGroup>
