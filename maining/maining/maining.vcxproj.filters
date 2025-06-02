@@ -59,5 +59,11 @@
     <ClInclude Include="links.h">
       <Filter>Исходные файлы\Control</Filter>
     </ClInclude>
+    <ClInclude Include="Discriminant.h">
+      <Filter>Исходные файлы\Control</Filter>
+    </ClInclude>
+    <ClInclude Include="Secret.h">
+      <Filter>Исходные файлы\Control</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|solutionrelative:maining\\maining.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|C:\\Users\\User\\Documents\\main\\maining\\maining\\Secret.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|solutionrelative:maining\\Secret.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|C:\\Users\\User\\Documents\\main\\maining\\maining\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|solutionrelative:maining\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|C:\\Users\\User\\Documents\\main\\maining\\maining\\links.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|solutionrelative:maining\\links.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "maining.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\main\\maining\\maining\\maining.cpp",
               "RelativeDocumentMoniker": "maining\\maining.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\main\\maining\\maining\\maining.cpp*",
-              "RelativeToolTip": "maining\\maining.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAIAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Documents\\main\\maining\\maining\\maining.cpp",
+              "RelativeToolTip": "maining\\maining.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-23T09:24:37.349Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Calculator.h",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\main\\maining\\maining\\Calculator.h",
               "RelativeDocumentMoniker": "maining\\Calculator.h",
               "ToolTip": "C:\\Users\\User\\Documents\\main\\maining\\maining\\Calculator.h",
               "RelativeToolTip": "maining\\Calculator.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-31T18:46:08.932Z",
+              "WhenOpened": "2025-06-02T11:26:26.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Secret.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\main\\maining\\maining\\Secret.h",
+              "RelativeDocumentMoniker": "maining\\Secret.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\main\\maining\\maining\\Secret.h",
+              "RelativeToolTip": "maining\\Secret.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T11:25:32.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "links.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\main\\maining\\maining\\links.h",
+              "RelativeDocumentMoniker": "maining\\links.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\main\\maining\\maining\\links.h",
+              "RelativeToolTip": "maining\\links.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T11:25:46.904Z",
               "EditorCaption": ""
             }
           ]

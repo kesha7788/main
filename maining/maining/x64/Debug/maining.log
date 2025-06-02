@@ -1,6 +1,1 @@
-﻿  InputController.cpp
-  maining.cpp
-  UIController.cpp
-  UIControllerHEAD.cpp
-  Создание кода...
-  maining.vcxproj -> C:\Users\User\Documents\main\maining\x64\Debug\maining.exe
+﻿LINK : fatal error LNK1168: не удается открыть C:\Users\User\Documents\main\maining\x64\Debug\maining.exe для записи

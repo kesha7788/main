@@ -135,9 +135,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Calculator.h" />
+    <ClInclude Include="Discriminant.h" />
     <ClInclude Include="InputController.h" />
     <ClInclude Include="links.h" />
     <ClInclude Include="OutputController.h" />
+    <ClInclude Include="Secret.h" />
     <ClInclude Include="UIControler.h" />
     <ClInclude Include="UIControllerHEAD.h" />
   </ItemGroup>
