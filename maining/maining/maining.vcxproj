@@ -131,10 +131,20 @@
     <ClCompile Include="maining.cpp" />
     <ClCompile Include="OutputController.cpp" />
     <ClCompile Include="UIController.cpp" />
+    <ClCompile Include="UIControllerHEAD.cpp" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClInclude Include="InputController.h" />
     <ClInclude Include="OutputController.h" />
+=======
+    <ClInclude Include="Calculator.h" />
+    <ClInclude Include="Discriminant.h" />
+    <ClInclude Include="InputController.h" />
+    <ClInclude Include="links.h" />
+    <ClInclude Include="OutputController.h" />
+    <ClInclude Include="Secret.h" />
+>>>>>>> 25ae5be67fdd4c67a37195b59bdb9495043d1dc0
     <ClInclude Include="UIControler.h" />
     <ClInclude Include="UIControllerHEAD.h" />
   </ItemGroup>

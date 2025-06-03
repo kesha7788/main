@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿  InputController.cpp
   maining.cpp
   Создание кода...
   maining.vcxproj -> C:\Users\STUDENT\Documents\GitHub\main\maining\x64\Debug\maining.exe
+=======
+﻿LINK : fatal error LNK1168: не удается открыть C:\Users\User\Documents\main\maining\x64\Debug\maining.exe для записи
+>>>>>>> 25ae5be67fdd4c67a37195b59bdb9495043d1dc0
