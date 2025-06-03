@@ -127,12 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FileManage.cpp" />
     <ClCompile Include="InputController.cpp" />
     <ClCompile Include="maining.cpp" />
     <ClCompile Include="OutputController.cpp" />
     <ClCompile Include="UIController.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="FileManage.h" />
     <ClInclude Include="InputController.h" />
     <ClInclude Include="OutputController.h" />
     <ClInclude Include="UIControler.h" />

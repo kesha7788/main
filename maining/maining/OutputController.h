@@ -5,7 +5,7 @@ using namespace std;
 class OutputController {
 public:
 	template <class T>
-	void Print(T){}
-	void PrintImage(int, int, vector<int>){}
+	void Print(T){ cout << out << endl}
+	void PrintImage(vector<vector<int>>){}
 
 };

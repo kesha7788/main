@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include "UIControllerHEAD.h"
 #include "InputController.h"
+
 int main()
 {
     /*string name = "HUH";
@@ -17,5 +18,7 @@ int main()
     vector<string> list{ "stas", "oleg", "masha" };
     int f = inputcontroller.ChooseInput(list);
     cout << d;
+
+
 
 }
