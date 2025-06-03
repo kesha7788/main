@@ -7,6 +7,7 @@
       "RelativeMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|solutionrelative:maining\\maining.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|C:\\Users\\STUDENT\\Documents\\GitHub\\main\\maining\\maining\\UIControllerHEAD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|solutionrelative:maining\\UIControllerHEAD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -29,6 +30,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|C:\\Users\\STUDENT\\Documents\\GitHub\\main\\maining\\maining\\OutputController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|solutionrelative:maining\\OutputController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+=======
+      "AbsoluteMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|C:\\Users\\User\\Documents\\main\\maining\\maining\\links.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB79880-9F60-4642-B113-020084B50E47}|maining\\maining.vcxproj|solutionrelative:maining\\links.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+>>>>>>> parent of 25ae5be (Creation4)
     }
   ],
   "DocumentGroupContainers": [
@@ -48,14 +53,21 @@
               "RelativeDocumentMoniker": "maining\\maining.cpp",
               "ToolTip": "C:\\Users\\STUDENT\\Documents\\GitHub\\main\\maining\\maining\\maining.cpp",
               "RelativeToolTip": "maining\\maining.cpp",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-20T15:55:08.445Z",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T09:24:37.349Z",
+>>>>>>> parent of 25ae5be (Creation4)
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "UIControllerHEAD.h",
               "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\GitHub\\main\\maining\\maining\\UIControllerHEAD.h",
               "RelativeDocumentMoniker": "maining\\UIControllerHEAD.h",
@@ -125,7 +137,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-29T16:12:13.473Z",
+=======
+              "Title": "links.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\main\\maining\\maining\\links.h",
+              "RelativeDocumentMoniker": "maining\\links.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\main\\maining\\maining\\links.h",
+              "RelativeToolTip": "maining\\links.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-31T18:46:35.303Z",
+>>>>>>> parent of 25ae5be (Creation4)
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

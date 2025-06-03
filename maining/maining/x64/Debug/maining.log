@@ -1,4 +1,11 @@
 ﻿  InputController.cpp
   maining.cpp
+<<<<<<< HEAD
   Создание кода...
   maining.vcxproj -> C:\Users\STUDENT\Documents\GitHub\main\maining\x64\Debug\maining.exe
+=======
+  UIController.cpp
+  UIControllerHEAD.cpp
+  Создание кода...
+  maining.vcxproj -> C:\Users\User\Documents\main\maining\x64\Debug\maining.exe
+>>>>>>> parent of 25ae5be (Creation4)

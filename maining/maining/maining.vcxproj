@@ -133,6 +133,10 @@
     <ClCompile Include="UIController.cpp" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <ClInclude Include="Calculator.h" />
+>>>>>>> parent of 25ae5be (Creation4)
     <ClInclude Include="InputController.h" />
     <ClInclude Include="OutputController.h" />
     <ClInclude Include="UIControler.h" />

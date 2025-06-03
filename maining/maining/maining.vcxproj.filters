@@ -38,5 +38,20 @@
     <ClInclude Include="UIControllerHEAD.h">
       <Filter>Исходные файлы\view</Filter>
     </ClInclude>
+<<<<<<< HEAD
+=======
+    <ClInclude Include="InputController.h">
+      <Filter>Исходные файлы\view</Filter>
+    </ClInclude>
+    <ClInclude Include="OutputController.h">
+      <Filter>Исходные файлы\view</Filter>
+    </ClInclude>
+    <ClInclude Include="Calculator.h">
+      <Filter>Исходные файлы\Control</Filter>
+    </ClInclude>
+    <ClInclude Include="links.h">
+      <Filter>Исходные файлы\Control</Filter>
+    </ClInclude>
+>>>>>>> parent of 25ae5be (Creation4)
   </ItemGroup>
 </Project>
