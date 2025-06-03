@@ -1,5 +1,4 @@
 #pragma once
-<<<<<<< HEAD
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -10,6 +9,3 @@ public:
 	void PrintImage(int, int, vector<int>){}
 
 };
-=======
-
->>>>>>> 25ae5be67fdd4c67a37195b59bdb9495043d1dc0

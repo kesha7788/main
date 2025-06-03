@@ -30,15 +30,6 @@
     <ClCompile Include="UIController.cpp">
       <Filter>Исходные файлы\view</Filter>
     </ClCompile>
-    <ClCompile Include="InputController.cpp">
-      <Filter>Исходные файлы\view</Filter>
-    </ClCompile>
-    <ClCompile Include="OutputController.cpp">
-      <Filter>Исходные файлы\view</Filter>
-    </ClCompile>
-    <ClCompile Include="UIControllerHEAD.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="UIControler.h">
@@ -46,24 +37,6 @@
     </ClInclude>
     <ClInclude Include="UIControllerHEAD.h">
       <Filter>Исходные файлы\view</Filter>
-    </ClInclude>
-    <ClInclude Include="InputController.h">
-      <Filter>Исходные файлы\view</Filter>
-    </ClInclude>
-    <ClInclude Include="OutputController.h">
-      <Filter>Исходные файлы\view</Filter>
-    </ClInclude>
-    <ClInclude Include="Calculator.h">
-      <Filter>Исходные файлы\Control</Filter>
-    </ClInclude>
-    <ClInclude Include="links.h">
-      <Filter>Исходные файлы\Control</Filter>
-    </ClInclude>
-    <ClInclude Include="Discriminant.h">
-      <Filter>Исходные файлы\Control</Filter>
-    </ClInclude>
-    <ClInclude Include="Secret.h">
-      <Filter>Исходные файлы\Control</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
