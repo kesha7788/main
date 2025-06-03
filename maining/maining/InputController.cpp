@@ -6,6 +6,6 @@ int InputController::ChooseInput(vector<string> variants) {
 	}
 	cout << "Choose: ";
 	int choose;
-	cin >> choose;
+	cin >> choose;	
 	return choose;
 }

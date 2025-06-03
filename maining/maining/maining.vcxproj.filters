@@ -13,14 +13,14 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Исходные файлы\Model">
+      <UniqueIdentifier>{a0becfc9-6adc-4836-8022-f3073f3e23d1}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Исходные файлы\Control">
       <UniqueIdentifier>{5301d7a1-7d40-4f46-8a1f-087d41a4d39c}</UniqueIdentifier>
     </Filter>
     <Filter Include="Исходные файлы\view">
       <UniqueIdentifier>{e6ea63f7-4f44-40fd-a9cd-eb14a807e93c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Исходные файлы\Model">
-      <UniqueIdentifier>{bd7116f4-a607-486f-9c8c-838114d6e8f2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -30,15 +30,6 @@
     <ClCompile Include="UIController.cpp">
       <Filter>Исходные файлы\view</Filter>
     </ClCompile>
-    <ClCompile Include="InputController.cpp">
-      <Filter>Исходные файлы\view</Filter>
-    </ClCompile>
-    <ClCompile Include="OutputController.cpp">
-      <Filter>Исходные файлы\view</Filter>
-    </ClCompile>
-    <ClCompile Include="FileManage.cpp">
-      <Filter>Исходные файлы\Model</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="UIControler.h">
@@ -46,15 +37,6 @@
     </ClInclude>
     <ClInclude Include="UIControllerHEAD.h">
       <Filter>Исходные файлы\view</Filter>
-    </ClInclude>
-    <ClInclude Include="InputController.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="OutputController.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="FileManage.h">
-      <Filter>Исходные файлы\Model</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
