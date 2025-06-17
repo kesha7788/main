@@ -2,7 +2,6 @@
 ﻿#include <iostream>
 #include "UIControllerHEAD.h"
 #include "InputController.h"
-=======
 ﻿#include "links.h"
 
 >>>>>>> parent of 25ae5be (Creation4)
@@ -23,8 +22,7 @@ int main()
     vector<string> list{ "stas", "oleg", "masha" };
     int f = inputcontroller.ChooseInput(list);
     cout << d;
-
-=======
+    ///wdeqgq4yh4qwhy
     inputcontroller.*/
     setlocale(0, "rus");
     string Enter, help;
